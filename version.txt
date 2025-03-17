@@ -1,2 +1,2 @@
 version=1.0.1
-downloadUrl=https://github.com/robemcnea/Galaxyupd/raw/refs/heads/main/3.dll
+downloadUrl=https://github.com/robemcnea/Galaxyupd/raw/refs/heads/main/Galaxy.dll
