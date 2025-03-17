@@ -1,0 +1,2 @@
+version=1.0.0
+downloadUrl=http://example.com/downloads/Plugin_v1.2.3.dll
